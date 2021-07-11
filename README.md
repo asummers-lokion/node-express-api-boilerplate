@@ -4,6 +4,7 @@ Run with
 
 Development environment:
 > npm run dev
+
 > npm run debug
 
 Live environment:
